@@ -2,4 +2,4 @@ My personal project which is getting roughness of material based on light reflec
 
 Algorithms and physics behind this will be posted in a journal soon!
 
-![Realsitic Rendering](ealistic rendering.jpeg)
+![Realsitic Rendering](realistic rendering.jpeg)
